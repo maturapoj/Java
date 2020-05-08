@@ -6,7 +6,7 @@ public class Main{
         h1.setAge("20");
         h1.skill("Shooting");
         h1.weapon("GUN");
-        h1.setNation("USA");
+        //h1.setNation("USA");
         h1.displayHero();
 
         Thor h2 = new Thor();
