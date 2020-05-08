@@ -8,4 +8,4 @@ public class Main{
         h1.skill("Shooting");
         h1.displayHero();
     }
-} 
+}  
